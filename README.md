@@ -4,7 +4,9 @@
 ##Примеры использования машинного обучения и анализа данных
 * Автоматическая <a href="http://tinyclouds.org/colorize/" title="color">раскраска</a> черно-белых изображений
 * <a href=https://www.mymoustache.net title="moust">Анализатор</a> шикарности усов
+* Генерация текстового <a href=http://cs.stanford.edu/people/karpathy/deepimagesent/ title="descibe">описания изображений</a>
 * <a href=http://deepdreamgenerator.com/ title="deep">Deep Dream
+* <a href=http://www.cs.toronto.edu/~graves/handwriting.cgi title="handwr">Имитация почерка</a>
 
 ##Полезные ссылки
 <a href=https://www.dataquest.io/ title="peasy">Dataquest</a>
