@@ -5,8 +5,10 @@
 * Автоматическая <a href="http://tinyclouds.org/colorize/" title="color">раскраска</a> черно-белых изображений
 * <a href=https://www.mymoustache.net title="moust">Анализатор</a> шикарности усов
 * <a href=http://deepdreamgenerator.com/ title="deep">Deep Dream
+
 ##Полезные ссылки
 <a href=https://www.dataquest.io/ title="peasy">Dataquest</a>
+
 ### Math
 
 [Linear Algebra Review and Reference](http://cs229.stanford.edu/section/cs229-linalg.pdf)
