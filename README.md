@@ -1,2 +1,3 @@
-# ml-course-hse
-ML practical course, HSE minor, spring'16
+# Семинары по курсу Введение в анализ данных
+Высшая Школа Экономики, весна 2016
+Опрос : http://goo.gl/forms/EpBjdfWbZU
